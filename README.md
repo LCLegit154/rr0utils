@@ -12,7 +12,7 @@ A collection of lightweight utility binaries written in pure C for fun, low-leve
 Clone the repository and compile using any standard C compiler (such as `gcc` or `clang`):
 
 \`\`\`bash
-git clone https://github.com/yourusername/rr0utils.git
+git clone https://github.com/LCLegit154/rr0utils.git
 cd rr0utils
 gcc -O3 mkfill.c -o mkfill
 gcc -O3 fcorrupt.c -o fcorrupt
